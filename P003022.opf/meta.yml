@@ -4,4 +4,24 @@ source_metadata:
   id: bdr:W3CN3416
   title: གསུང་འབུམ། སྡེ་སྤྲུལ་ཀུན་དགའ་རྒྱལ་མཚན།
   author: ''
-  volumes: {}
+  volumes:
+    2fe9c1d05150430bb9655eaaef4537be:
+      image_group_id: I3CN8606
+      title: ''
+      volume_number: 1
+      total_pages: 360
+    0c3714c9b2c142fd8418ac9be1396ddd:
+      image_group_id: I3CN8607
+      title: ''
+      volume_number: 2
+      total_pages: 382
+    8226e012533e40a8a79a19b1c8aa0a8b:
+      image_group_id: I3CN8608
+      title: ''
+      volume_number: 3
+      total_pages: 392
+    2ba63db95cb442c1afeffd87bf6262ea:
+      image_group_id: I3CN8609
+      title: ''
+      volume_number: 4
+      total_pages: 508
