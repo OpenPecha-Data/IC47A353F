@@ -1,7 +1,7 @@
 id: P003022
 initial_creation_type: ocr
 created_at: 23/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 10:34:52.962067
 source_metadata:
   id: bdr:W3CN3416
   title: གསུང་འབུམ། སྡེ་སྤྲུལ་ཀུན་དགའ་རྒྱལ་མཚན།
@@ -30,3 +30,5 @@ source_metadata:
       title: ''
       volume_number: 4
       total_pages: 508
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: true
